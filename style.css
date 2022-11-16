@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .container {
+    width: 1400px;
+    margin: auto;
+    padding: 50px;
+   }
+  
+  .container:after {
+    content: '';
+    display: table;
+    clear: both;
+   }
+  
+  header {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  hr {
+    margin-bottom: 15px;
+    border: 1px solid lightgrey;
+  }
+  
