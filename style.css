@@ -32,4 +32,91 @@
     margin-bottom: 15px;
     border: 1px solid lightgrey;
   }
+
+  #vediTutti {
+    font-size: 15px;
+    position: absolute;
+    right:0;
+  }
   
+  #aggiungi {
+    font-size: 25px;
+  }
+  
+  #vediTutti, #aggiungi {
+    color: blue;
+  }
+  
+  #vediTutti, #aggiungi, .name, .number {
+    font-weight: bold;
+  }
+  
+  #vediTutti, #aggiungi, h1 {
+    line-height: 60px;
+  }
+  
+  .album {
+    float:left;
+    width: calc(100% / 6);
+  }
+  
+  .anteprima {
+    height: 150px;
+  }
+  
+  .anteprima, .name, .number {
+    margin: 5px;
+  }
+  
+  .number {
+    color: grey;
+  }
+  
+  #f1 {
+    background-image: url(foto1.jpg);
+  }
+  
+  #f2 {
+    background-image: url(foto2.jpg);
+  }
+  
+  #f3 {
+    background-image: url(foto3.jpg);
+  }
+  
+  #f4 {
+    background-image: url(foto4.jpg);
+  }
+  
+  #f5 {
+    background-image: url(foto5.jpg);
+  }
+  
+  #f6 {
+    background-image: url(foto6.jpg);
+  }
+  
+  #f7 {
+    background-image: url(foto7.jpg);
+  }
+  
+  #f8 {
+    background-image: url(foto8.jpg);
+  }
+  
+  #f9 {
+    background-image: url(foto9.jpg);
+  }
+  
+  #f10 {
+    background-image: url(foto10.jpg);
+  }
+  
+  #f11 {
+    background-image: url(foto11.jpg);
+  }
+  
+  #f12 {
+    background-image: url(foto12.jpg);
+  }
+    
